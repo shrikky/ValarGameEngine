@@ -1,0 +1,50 @@
+﻿  Human.cpp
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate_slow function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspectiveFov function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: infinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: tweakedInfinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as parameters is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotateX function taking degrees as parameters is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotateY function taking degrees as parameters is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotateZ function taking degrees as parameters is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotateX function taking degrees as parameters is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotateX function taking degrees as parameters is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotateZ function taking degrees as parameters is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotateZ function taking degrees as parameters is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+c:\opengl\openglplayground\openglplayground\zombiegame\human.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\opengl\openglplayground\openglplayground\zombiegame\human.cpp(39): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GLM: rotate function taking degrees as parameters is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  MainGame.cpp
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate_slow function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspectiveFov function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: infinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: tweakedInfinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+c:\opengl\openglplayground\openglplayground\zombiegame\maingame.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\opengl\openglplayground\openglplayground\zombiegame\maingame.cpp(57): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\opengl\openglplayground\openglplayground\zombiegame\maingame.cpp(62): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\opengl\openglplayground\openglplayground\zombiegame\maingame.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\opengl\openglplayground\openglplayground\zombiegame\maingame.cpp(131): warning C4018: '<': signed/unsigned mismatch
+c:\opengl\openglplayground\openglplayground\zombiegame\maingame.cpp(139): warning C4018: '<': signed/unsigned mismatch
+c:\opengl\openglplayground\openglplayground\zombiegame\maingame.cpp(146): warning C4018: '<': signed/unsigned mismatch
+c:\opengl\openglplayground\openglplayground\zombiegame\maingame.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\opengl\openglplayground\openglplayground\zombiegame\maingame.cpp(152): warning C4018: '<': signed/unsigned mismatch
+c:\opengl\openglplayground\openglplayground\zombiegame\maingame.cpp(171): warning C4018: '<': signed/unsigned mismatch
+c:\opengl\openglplayground\openglplayground\zombiegame\maingame.cpp(173): warning C4018: '<': signed/unsigned mismatch
+c:\opengl\openglplayground\openglplayground\zombiegame\maingame.cpp(202): warning C4018: '<': signed/unsigned mismatch
+c:\opengl\openglplayground\openglplayground\zombiegame\maingame.cpp(207): warning C4018: '<': signed/unsigned mismatch
+  Zombie.cpp
+c:\opengl\openglplayground\openglplayground\zombiegame\zombie.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\opengl\openglplayground\openglplayground\zombiegame\zombie.cpp(34): error C2027: use of undefined type 'Human'
+  c:\opengl\openglplayground\openglplayground\zombiegame\zombie.cpp(3): note: see declaration of 'Human'
+  main.cpp
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate_slow function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspectiveFov function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: infinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: tweakedInfinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  Generating Code...

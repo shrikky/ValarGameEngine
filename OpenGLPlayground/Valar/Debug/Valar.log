@@ -1,0 +1,4 @@
+﻿  SpriteBatch.cpp
+c:\opengl\openglplayground\openglplayground\valar\spritebatch.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\opengl\openglplayground\openglplayground\valar\spritebatch.cpp(85): warning C4018: '<': signed/unsigned mismatch
+  Valar.vcxproj -> C:\OpenGL\OpenGLPlayground\OpenGLPlayground\Debug\Valar.lib

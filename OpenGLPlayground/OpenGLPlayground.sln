@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGLPlayground", "OpenGLPlayground\OpenGLPlayground.vcxproj", "{7651EDEC-5BE5-4552-8272-BFC716B59815}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1C40A5D5-8D9A-4851-9840-4781A836C5EF} = {1C40A5D5-8D9A-4851-9840-4781A836C5EF}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Valar", "Valar\Valar.vcxproj", "{1C40A5D5-8D9A-4851-9840-4781A836C5EF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZombieGame", "ZombieGame\ZombieGame.vcxproj", "{87E0A481-C96A-41B3-807C-3E11B5158A02}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1C40A5D5-8D9A-4851-9840-4781A836C5EF} = {1C40A5D5-8D9A-4851-9840-4781A836C5EF}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7651EDEC-5BE5-4552-8272-BFC716B59815}.Debug|x64.ActiveCfg = Debug|x64
+		{7651EDEC-5BE5-4552-8272-BFC716B59815}.Debug|x64.Build.0 = Debug|x64
+		{7651EDEC-5BE5-4552-8272-BFC716B59815}.Debug|x86.ActiveCfg = Debug|Win32
+		{7651EDEC-5BE5-4552-8272-BFC716B59815}.Debug|x86.Build.0 = Debug|Win32
+		{7651EDEC-5BE5-4552-8272-BFC716B59815}.Release|x64.ActiveCfg = Release|x64
+		{7651EDEC-5BE5-4552-8272-BFC716B59815}.Release|x64.Build.0 = Release|x64
+		{7651EDEC-5BE5-4552-8272-BFC716B59815}.Release|x86.ActiveCfg = Release|Win32
+		{7651EDEC-5BE5-4552-8272-BFC716B59815}.Release|x86.Build.0 = Release|Win32
+		{1C40A5D5-8D9A-4851-9840-4781A836C5EF}.Debug|x64.ActiveCfg = Debug|x64
+		{1C40A5D5-8D9A-4851-9840-4781A836C5EF}.Debug|x64.Build.0 = Debug|x64
+		{1C40A5D5-8D9A-4851-9840-4781A836C5EF}.Debug|x86.ActiveCfg = Debug|Win32
+		{1C40A5D5-8D9A-4851-9840-4781A836C5EF}.Debug|x86.Build.0 = Debug|Win32
+		{1C40A5D5-8D9A-4851-9840-4781A836C5EF}.Release|x64.ActiveCfg = Release|x64
+		{1C40A5D5-8D9A-4851-9840-4781A836C5EF}.Release|x64.Build.0 = Release|x64
+		{1C40A5D5-8D9A-4851-9840-4781A836C5EF}.Release|x86.ActiveCfg = Release|Win32
+		{1C40A5D5-8D9A-4851-9840-4781A836C5EF}.Release|x86.Build.0 = Release|Win32
+		{87E0A481-C96A-41B3-807C-3E11B5158A02}.Debug|x64.ActiveCfg = Debug|x64
+		{87E0A481-C96A-41B3-807C-3E11B5158A02}.Debug|x64.Build.0 = Debug|x64
+		{87E0A481-C96A-41B3-807C-3E11B5158A02}.Debug|x86.ActiveCfg = Debug|Win32
+		{87E0A481-C96A-41B3-807C-3E11B5158A02}.Debug|x86.Build.0 = Debug|Win32
+		{87E0A481-C96A-41B3-807C-3E11B5158A02}.Release|x64.ActiveCfg = Release|x64
+		{87E0A481-C96A-41B3-807C-3E11B5158A02}.Release|x64.Build.0 = Release|x64
+		{87E0A481-C96A-41B3-807C-3E11B5158A02}.Release|x86.ActiveCfg = Release|Win32
+		{87E0A481-C96A-41B3-807C-3E11B5158A02}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3525448-60B9-49AD-908E-F1C9902908DB}
+	EndGlobalSection
+EndGlobal
